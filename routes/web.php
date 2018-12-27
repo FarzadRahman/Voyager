@@ -15,7 +15,10 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::post('/order/getdata','OrderController@getAllData')->name('order.getData');
+Route::get('/order','OrderController@index')->name('order.index');
 
 Route::group(['prefix' => 'admin'], function () {
+
     Voyager::routes();
 });
