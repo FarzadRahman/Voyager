@@ -72,8 +72,7 @@
                         {{--var url='{{url("product/edit/", ":id") }}';--}}
                         //     return '<a class="btn btn-default btn-sm" data-panel-id="'+data.jobId+'" onclick="editjob(this)"><i class="fa fa-edit"></i></a>'+
                         //     '<a class="btn btn-default btn-sm" data-panel-id="'+data.jobId+'" onclick="commentjob(this)"><i class="fa fa-comments"></i></a>'
-                          return '<a class="btn btn-sm btn-warning pull-right view" href="#">view</a>'+
-                              '&nbsp;<a class="btn btn-sm btn-primary pull-right edit" href="#">edit</a>';},
+                          return '&nbsp;<button class="btn btn-sm btn-primary pull-right edit" data-panel-id="'+data.id+'" onclick="edit(this)">edit</button>';},
                     "orderable": false, "searchable":false, "name":"selected_rows" },
             ]
         } );
@@ -83,6 +82,13 @@
         var  value=$(x).val();
         dataTable.ajax.reload();
 
+    }
+
+    function edit(x){
+        var id=$(x).data('panel-id');
+        let url = "{{ route('voyager.order.edit', ':id') }}";
+        url = url.replace(':id', id);
+        document.location.href=url;
     }
 </script>
 
