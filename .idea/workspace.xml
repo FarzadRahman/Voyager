@@ -1,343 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c3390df-0421-4887-8ebe-5f63998cca8a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/vendor/voyager/order/edit-add.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/voyager.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/voyager.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Console/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Console/Kernel.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Exceptions/Handler.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Exceptions/Handler.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/ForgotPasswordController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/ForgotPasswordController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/ResetPasswordController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/ResetPasswordController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/VerificationController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/VerificationController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/AuthController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/AuthController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Controller.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/OrderController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/OrderController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/PostController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/PostController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Kernel.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Middleware/Authenticate.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Middleware/Authenticate.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Middleware/CheckForMaintenanceMode.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Middleware/CheckForMaintenanceMode.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Middleware/EncryptCookies.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Middleware/EncryptCookies.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Middleware/RedirectIfAuthenticated.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Middleware/RedirectIfAuthenticated.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Middleware/TrimStrings.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Middleware/TrimStrings.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Middleware/TrustProxies.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Middleware/TrustProxies.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Middleware/VerifyCsrfToken.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Middleware/VerifyCsrfToken.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Order.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Order.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Post.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Post.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Providers/BroadcastServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/BroadcastServiceProvider.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Providers/EventServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/EventServiceProvider.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Widgets/Orders.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Widgets/Orders.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/artisan" beforeDir="false" afterPath="$PROJECT_DIR$/artisan" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap/app.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap/autoload.php" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap/autoload.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootstrap/cache/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap/cache/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/auth.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/broadcasting.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/broadcasting.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/cache.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/cache.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/cors.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/cors.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/database.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/datatables.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/datatables.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/filesystems.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/filesystems.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/hashing.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/hashing.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/hooks.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/hooks.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/image.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/image.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/jwt.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/jwt.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/logging.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/logging.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/mail.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/mail.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/queue.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/queue.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/services.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/services.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/session.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/session.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/view.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/view.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/voyager-hooks.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/voyager-hooks.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/voyager.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/voyager.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/database/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/factories/UserFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/factories/UserFactory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_100000_create_password_resets_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_100000_create_password_resets_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2016_01_01_000000_create_pages_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2016_01_01_000000_create_pages_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2016_01_01_000000_create_posts_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2016_01_01_000000_create_posts_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2016_02_15_204651_create_categories_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2016_02_15_204651_create_categories_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2017_04_11_000000_alter_post_nullable_fields_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2017_04_11_000000_alter_post_nullable_fields_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeds/CategoriesTableSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/CategoriesTableSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeds/DataRowsTableSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/DataRowsTableSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeds/DataTypesTableSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/DataTypesTableSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeds/MenuItemsTableSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/MenuItemsTableSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeds/MenusTableSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/MenusTableSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeds/PagesTableSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/PagesTableSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeds/PermissionRoleTableSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/PermissionRoleTableSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeds/PermissionsTableSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/PermissionsTableSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeds/PostsTableSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/PostsTableSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeds/RolesTableSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/RolesTableSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeds/SettingsTableSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/SettingsTableSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeds/TranslationsTableSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/TranslationsTableSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeds/UsersTableSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/UsersTableSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeds/VoyagerDatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/VoyagerDatabaseSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeds/VoyagerDummyDatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/VoyagerDummyDatabaseSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/hooks.json" beforeDir="false" afterPath="$PROJECT_DIR$/hooks/hooks.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/phpunit.xml" beforeDir="false" afterPath="$PROJECT_DIR$/phpunit.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/public/.htaccess" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/svg/403.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/svg/403.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/svg/404.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/svg/404.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/svg/500.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/svg/500.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/svg/503.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/svg/503.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/css/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/css/rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/css/rtl.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/fonts/bootstrap/glyphicons-halflings-regular.eot" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/fonts/bootstrap/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/fonts/bootstrap/glyphicons-halflings-regular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/fonts/bootstrap/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/fonts/bootstrap/glyphicons-halflings-regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/fonts/bootstrap/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/fonts/bootstrap/glyphicons-halflings-regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/fonts/bootstrap/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/fonts/bootstrap/glyphicons-halflings-regular.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/fonts/bootstrap/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/fonts/icons-reference.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/fonts/icons-reference.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/fonts/voyager.eot" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/fonts/voyager.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/fonts/voyager.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/fonts/voyager.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/fonts/voyager.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/fonts/voyager.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/fonts/voyager.woff" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/fonts/voyager.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/images/bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/images/bg.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/images/captain-avatar.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/images/captain-avatar.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/images/compass/documentation.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/images/compass/documentation.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/images/compass/hooks.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/images/compass/hooks.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/images/compass/voyager-home.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/images/compass/voyager-home.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/images/helm.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/images/helm.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/images/large-logo-icon-light.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/images/large-logo-icon-light.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/images/large-logo-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/images/large-logo-icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/images/logo-icon-light.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/images/logo-icon-light.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/images/logo-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/images/logo-icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/images/voyager-character.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/images/voyager-character.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/images/voyager-character.sketch" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/images/voyager-character.sketch" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/images/widget-backgrounds/01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/images/widget-backgrounds/01.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/images/widget-backgrounds/02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/images/widget-backgrounds/02.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/images/widget-backgrounds/03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/images/widget-backgrounds/03.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/advlist/plugin.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/advlist/plugin.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/anchor/plugin.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/anchor/plugin.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/autolink/plugin.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/autolink/plugin.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/autoresize/plugin.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/autoresize/plugin.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/autosave/plugin.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/autosave/plugin.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/bbcode/plugin.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/bbcode/plugin.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/charmap/plugin.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/charmap/plugin.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/code/plugin.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/code/plugin.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/codesample/css/prism.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/codesample/css/prism.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/codesample/plugin.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/codesample/plugin.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/colorpicker/plugin.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/colorpicker/plugin.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/contextmenu/plugin.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/contextmenu/plugin.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/directionality/plugin.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/directionality/plugin.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/emoticons/img/smiley-cool.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/emoticons/img/smiley-cool.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/emoticons/img/smiley-cry.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/emoticons/img/smiley-cry.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/emoticons/img/smiley-embarassed.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/emoticons/img/smiley-embarassed.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/emoticons/img/smiley-foot-in-mouth.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/emoticons/img/smiley-foot-in-mouth.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/emoticons/img/smiley-frown.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/emoticons/img/smiley-frown.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/emoticons/img/smiley-innocent.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/emoticons/img/smiley-innocent.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/emoticons/img/smiley-kiss.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/emoticons/img/smiley-kiss.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/emoticons/img/smiley-laughing.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/emoticons/img/smiley-laughing.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/emoticons/img/smiley-money-mouth.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/emoticons/img/smiley-money-mouth.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/emoticons/img/smiley-sealed.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/emoticons/img/smiley-sealed.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/emoticons/img/smiley-smile.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/emoticons/img/smiley-smile.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/emoticons/img/smiley-surprised.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/emoticons/img/smiley-surprised.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/emoticons/img/smiley-tongue-out.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/emoticons/img/smiley-tongue-out.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/emoticons/img/smiley-undecided.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/emoticons/img/smiley-undecided.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/emoticons/img/smiley-wink.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/emoticons/img/smiley-wink.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/emoticons/img/smiley-yell.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/emoticons/img/smiley-yell.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/emoticons/plugin.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/emoticons/plugin.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/example/dialog.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/example/dialog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/example/plugin.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/example/plugin.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/example_dependency/plugin.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/example_dependency/plugin.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/fullpage/plugin.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/fullpage/plugin.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/fullscreen/plugin.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/fullscreen/plugin.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/css/giphyPopup.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/css/giphyPopup.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/giphy.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/giphy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/img/clear.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/img/clear.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/img/giphy_icon_128.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/img/giphy_icon_128.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/img/giphy_icon_16.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/img/giphy_icon_16.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/img/giphy_icon_19.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/img/giphy_icon_19.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/img/giphy_icon_38.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/img/giphy_icon_38.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/img/giphy_icon_48.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/img/giphy_icon_48.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/img/giphy_logo_laser.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/img/giphy_logo_laser.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/img/giphy_logo_txt.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/img/giphy_logo_txt.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/img/icon_add.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/img/icon_add.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/img/icon_back.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/img/icon_back.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/img/icon_categories.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/img/icon_categories.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/img/icon_email.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/img/icon_email.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/img/icon_facebook.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/img/icon_facebook.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/img/icon_heart_red.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/img/icon_heart_red.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/img/icon_heart_white.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/img/icon_heart_white.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/img/icon_link_white.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/img/icon_link_white.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/img/icon_menu.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/img/icon_menu.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/img/icon_reactions.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/img/icon_reactions.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/img/icon_search.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/img/icon_search.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/img/icon_sms.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/img/icon_sms.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/img/icon_twitter.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/img/icon_twitter.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/img/loader_purple.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/img/loader_purple.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/js/GiphySearch.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/js/GiphySearch.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/js/giphy_cms_ext.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/js/giphy_cms_ext.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/js/imagesloaded.pkgd.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/js/imagesloaded.pkgd.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/js/init.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/js/init.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/js/jquery.xdomainrequest.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/js/jquery.xdomainrequest.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/js/masonry.pkgd.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/js/masonry.pkgd.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/js/newT.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/html/js/newT.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/img/clear.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/img/clear.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/img/giphyicon20px.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/img/giphyicon20px.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/img/giphyiconoff20px.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/img/giphyiconoff20px.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/plugin.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/giphy/plugin.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/hr/plugin.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/hr/plugin.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/image/plugin.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/image/plugin.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/imagetools/plugin.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/imagetools/plugin.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/importcss/plugin.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/importcss/plugin.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/insertdatetime/plugin.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/insertdatetime/plugin.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/layer/plugin.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/layer/plugin.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/legacyoutput/plugin.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/legacyoutput/plugin.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/link/plugin.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/link/plugin.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/lists/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/lists/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/lists/plugin.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/lists/plugin.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/lists/plugin.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/lists/plugin.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/media/moxieplayer.swf" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/media/moxieplayer.swf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/media/plugin.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/media/plugin.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/nonbreaking/plugin.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/nonbreaking/plugin.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/noneditable/plugin.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/noneditable/plugin.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/pagebreak/plugin.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/pagebreak/plugin.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/paste/plugin.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/paste/plugin.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/preview/plugin.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/preview/plugin.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/print/plugin.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/print/plugin.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/save/plugin.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/save/plugin.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/searchreplace/plugin.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/searchreplace/plugin.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/spellchecker/plugin.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/spellchecker/plugin.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/tabfocus/plugin.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/tabfocus/plugin.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/table/plugin.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/table/plugin.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/template/plugin.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/template/plugin.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/textcolor/plugin.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/textcolor/plugin.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/textpattern/plugin.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/textpattern/plugin.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/toc/plugin.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/toc/plugin.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/visualblocks/css/visualblocks.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/visualblocks/css/visualblocks.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/visualblocks/plugin.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/visualblocks/plugin.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/visualchars/plugin.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/visualchars/plugin.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/wordcount/plugin.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/wordcount/plugin.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/youtube/css/bootstrap-theme.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/youtube/css/bootstrap-theme.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/youtube/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/youtube/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/youtube/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/youtube/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/youtube/fonts/glyphicons-halflings-regular.eot" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/youtube/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/youtube/fonts/glyphicons-halflings-regular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/youtube/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/youtube/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/youtube/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/youtube/fonts/glyphicons-halflings-regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/youtube/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/youtube/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/youtube/icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/youtube/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/youtube/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/youtube/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/youtube/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/youtube/js/jQuery.jQTubeUtil.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/youtube/js/jQuery.jQTubeUtil.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/youtube/js/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/youtube/js/jquery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/youtube/js/jquery.yt_data_v3.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/youtube/js/jquery.yt_data_v3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/youtube/js/modernizr.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/youtube/js/modernizr.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/youtube/js/mustache.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/youtube/js/mustache.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/youtube/js/youtube.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/youtube/js/youtube.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/youtube/langs/de.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/youtube/langs/de.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/youtube/langs/en.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/youtube/langs/en.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/youtube/langs/nl.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/youtube/langs/nl.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/youtube/plugin.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/youtube/plugin.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/youtube/preview.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/youtube/preview.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/youtube/slider/css/slide.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/youtube/slider/css/slide.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/youtube/slider/css/slider.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/youtube/slider/css/slider.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/youtube/slider/js/bootstrap-slider.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/youtube/slider/js/bootstrap-slider.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/youtube/slider/less/slider.less" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/youtube/slider/less/slider.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/youtube/template/forms.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/youtube/template/forms.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/youtube/youtube.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/plugins/youtube/youtube.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/lightgray/content.inline.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/lightgray/content.inline.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/lightgray/content.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/lightgray/content.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/lightgray/fonts/tinymce-small.eot" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/lightgray/fonts/tinymce-small.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/lightgray/fonts/tinymce-small.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/lightgray/fonts/tinymce-small.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/lightgray/fonts/tinymce-small.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/lightgray/fonts/tinymce-small.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/lightgray/fonts/tinymce-small.woff" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/lightgray/fonts/tinymce-small.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/lightgray/fonts/tinymce.eot" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/lightgray/fonts/tinymce.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/lightgray/fonts/tinymce.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/lightgray/fonts/tinymce.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/lightgray/fonts/tinymce.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/lightgray/fonts/tinymce.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/lightgray/fonts/tinymce.woff" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/lightgray/fonts/tinymce.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/lightgray/img/anchor.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/lightgray/img/anchor.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/lightgray/img/loader.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/lightgray/img/loader.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/lightgray/img/object.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/lightgray/img/object.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/lightgray/img/trans.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/lightgray/img/trans.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/lightgray/skin.ie7.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/lightgray/skin.ie7.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/lightgray/skin.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/lightgray/skin.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/voyager/Variables.less" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/voyager/Variables.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/voyager/content.inline.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/voyager/content.inline.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/voyager/content.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/voyager/content.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/voyager/fonts/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/voyager/fonts/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/voyager/fonts/tinymce-small.eot" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/voyager/fonts/tinymce-small.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/voyager/fonts/tinymce-small.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/voyager/fonts/tinymce-small.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/voyager/fonts/tinymce-small.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/voyager/fonts/tinymce-small.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/voyager/fonts/tinymce-small.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/voyager/fonts/tinymce-small.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/voyager/fonts/tinymce-small.woff" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/voyager/fonts/tinymce-small.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/voyager/fonts/tinymce.eot" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/voyager/fonts/tinymce.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/voyager/fonts/tinymce.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/voyager/fonts/tinymce.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/voyager/fonts/tinymce.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/voyager/fonts/tinymce.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/voyager/fonts/tinymce.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/voyager/fonts/tinymce.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/voyager/fonts/tinymce.woff" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/voyager/fonts/tinymce.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/voyager/img/anchor.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/voyager/img/anchor.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/voyager/img/loader.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/voyager/img/loader.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/voyager/img/object.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/voyager/img/object.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/voyager/img/trans.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/voyager/img/trans.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/voyager/skin.ie7.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/voyager/skin.ie7.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/voyager/skin.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/voyager/skin.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/voyager/skin.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/skins/voyager/skin.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/themes/modern/theme.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/themes/modern/theme.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/web.config" beforeDir="false" afterPath="$PROJECT_DIR$/public/web.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/components/ExampleComponent.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/components/ExampleComponent.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/lang/en/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/lang/en/auth.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/lang/en/pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/lang/en/pagination.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/lang/en/passwords.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/lang/en/passwords.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/lang/en/validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/lang/en/validation.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/sass/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/order/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/order/index.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/vendor/voyager/order/browse.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/vendor/voyager/order/browse.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/robots.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/channels.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/channels.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/console.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/console.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server.php" beforeDir="false" afterPath="$PROJECT_DIR$/server.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/storage/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage_old/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/storage_old/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg/403.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg/403.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg/404.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg/404.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg/500.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg/500.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svg/503.svg" beforeDir="false" afterPath="$PROJECT_DIR$/svg/503.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/CreatesApplication.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/CreatesApplication.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/Feature/ExampleTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Feature/ExampleTest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/TestCase.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TestCase.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/Unit/ExampleTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Unit/ExampleTest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web.config" beforeDir="false" afterPath="$PROJECT_DIR$/web.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.mix.js" afterDir="false" />
-    </list>
+    <list default="true" id="2c3390df-0421-4887-8ebe-5f63998cca8a" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -382,8 +46,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/voyager.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
-              <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+            <state relative-caret-position="361">
+              <caret line="25" column="54" lean-forward="true" selection-start-line="25" selection-start-column="54" selection-end-line="25" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -665,15 +329,16 @@
       <workItem from="1545840893700" duration="3835000" />
       <workItem from="1545853100805" duration="1262000" />
       <workItem from="1545938083235" duration="4371000" />
-      <workItem from="1545973077368" duration="3795000" />
+      <workItem from="1545973077368" duration="4575000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35273000" />
+    <option name="totallyTimeSpent" value="36053000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25290537" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -940,8 +605,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/voyager.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+        <state relative-caret-position="361">
+          <caret line="25" column="54" lean-forward="true" selection-start-line="25" selection-start-column="54" selection-end-line="25" selection-end-column="54" />
         </state>
       </provider>
     </entry>
